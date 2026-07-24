@@ -1,6 +1,6 @@
 {
-	"name": "book-progress",
-	"version": "1.0.0",
+	"name": "book-reader",
+	"version": "1.0.1",
 	"description": "Read books with ease: scroll-position memory, remaining reading time, and book progress bars.",
 	"main": "main.js",
 	"scripts": {
