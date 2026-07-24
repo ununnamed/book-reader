@@ -1,4 +1,4 @@
-# Book Progress
+# Book Reader
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/3192fb76-2ea9-4386-bb19-b5877aad340f" />
 
